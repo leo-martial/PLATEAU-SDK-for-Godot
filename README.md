@@ -8,7 +8,8 @@ A pure-GDScript toolkit that brings [Project PLATEAU](https://www.mlit.go.jp/pla
 
 No GDExtension, no native build, no third-party binary. Just GDScript files you can read, modify, and drop into any Godot 4.2+ project.
 
----
+<img width="640" height="340" alt="plateau_sdk_for_godot" src="https://github.com/user-attachments/assets/375b2434-54e0-4b2b-b29b-af248a2f71d5" />
+
 
 ## Table of contents
 
